@@ -1,0 +1,40 @@
+
+############################################################
+# +------------------------------------------------------+ #
+# |                    DeluxeTagsSeller                  | #
+# +------------------------------------------------------+ #
+############################################################
+
+# Tags for the code: <AMOUNT>, <CREDITS> & <PLAYER> (Only use them if they are in their respective messages, do NOT use them in another messages)
+
+addtag-usage: '&c&lUse /addtag [Player] [Amount]'
+
+addtag-succes: '&cSuccessfully gave &r<PLAYER> &l<AMOUNT> &r&cTag Create.'
+
+addtag-recieved: "&cYou've recieved &r&l<AMOUNT> &cTag Create &r(/tags create [identifier] [tag])"
+
+creating-tag-max: "&cThe name of the tag shouldn't be more than 10 characters (including spaces)"
+
+creating-tag-buy: "&cYou have to buy a tag first!"
+
+credits-check-others: 'Username: <PLAYER>. Credits: <AMOUNT>'
+
+credits-usage: 'Use /credits'
+
+credits-usage-others: 'Use /credits [PLAYER]'
+
+credits-player-doesnt-have-others: "&c&l<PLAYER> doesn't have any tags!"
+
+credits-player-doesnt-have: "&c&lYou don't have any tags!"
+
+credits-check-credits-of-player: "&bYou have &6<CREDITS> &bcredits!"
+
+removetag-usage: '&c&lUse /removetag [PLAYER] [AMOUNT]'
+
+removetag-succes: '&cSuccessfully removed <AMOUNT> tag to &r<PLAYER>'
+
+removetag-removed-message: "&cYou've been removed <AMOUNT> tag D:"
+
+removetag-doesnt-has-tags: "&c&lThe player doesn't have any tags!"
+
+no-permission: "&c&lYou don't have permission to execute that command!"
