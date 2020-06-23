@@ -1,0 +1,7 @@
+main: me.ulrich.staffchat.Main
+name: StaffChat
+version: 1.0
+author: Ulrich
+
+commands:
+   tc:
