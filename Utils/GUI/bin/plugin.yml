@@ -1,0 +1,7 @@
+main: me.Ulrich.GUI.Main
+name: GUI
+version: 1.0
+author: Ulrich
+
+commands:
+   gui:
