@@ -1,0 +1,14 @@
+# If you use formatting codes in the display name the players will not be able to change the colors by theyself.
+titles:
+  '1':
+    display-name: 'Test1'
+    id: 'test1'
+  '2':
+    display-name: 'Test2'
+    id: 'test2'
+  '3':
+    display-name: 'Test3'
+    id: 'test3'
+  '4':
+    display-name: 'Test4'
+    id: 'test4'

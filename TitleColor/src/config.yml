@@ -1,0 +1,25 @@
+# <id>, <titles> are tags for the code.
+
+dont-have-permission: '&c&lYou do not have permission to run this command!'
+
+addtitle-usage: 'Use /addtitle [Player] [ID]'
+
+available-titles: 'Available titles: <titles>'
+
+buy-title: '&cYou have to buy a title first!'
+
+listtitles-usage: 'Use /listtitles'
+
+titlecreate-usage: 'Use /titlecreate [Player] [Title Display]'
+
+titlecolor-usage: 'Use /titlecolor [Title] [ColorFormat] (ColorFormat is optional)'
+
+titleclear-usage: 'Use /titleclear'
+
+titleclear-cleared: 'The title has been cleared!'
+
+titleclear-not-titles-activated: "You don't have any titles activated!"
+
+succes: "&cYou've recieved the &6Title Color <id> &r(Use /titlecolor <id> [Color Format] to activate your title! ([Color Format] is optional))"
+
+title-activated: "&cTitle activated!"

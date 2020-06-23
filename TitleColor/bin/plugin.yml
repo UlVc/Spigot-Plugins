@@ -1,0 +1,11 @@
+main: com.athenmc.titlecolor.Main
+name: TitleColor
+version: 1.0.0
+author: Ulrich
+
+commands:
+   addtitle:
+   titlecolor:
+   titleclear:
+   listtitles:
+   titlecreate:
