@@ -1,0 +1,8 @@
+main: me.ulrich.holograms.Main
+name: Holograms
+version: 1.0
+author: Ulrich
+
+commands:
+   hologram:
+      descripition: Spawns a hologram
