@@ -1,0 +1,8 @@
+main: me.ulrich.skull.Main
+name: Skull
+version: 1.0.0
+author: Ulrich
+
+commands:
+   skull:
+   
