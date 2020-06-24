@@ -1,0 +1,7 @@
+main: me.Ulrich.clickablemessage.Main
+name: ClickableMessage
+version: 1.0.0
+author: Ulrich
+
+commands:
+   Doctor:
