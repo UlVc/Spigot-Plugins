@@ -1,0 +1,7 @@
+main: me.ulrich.telekinesis.Main
+name: TelekinesisEnchant
+version: 1.0
+author: Ulrich
+
+commands:
+   telekinesis:
