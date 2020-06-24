@@ -16,12 +16,6 @@ import org.bukkit.inventory.ItemStack;
 
 public class BlockBreak implements Listener {
 	
-	/*private WorldGuardPlugin worldGuardPlugin;
-	
-	public BlockBreak(WorldGuardPlugin worldGuardPlugin) {
-        this.worldGuardPlugin = worldGuardPlugin;
-    }*/
-	
 	@EventHandler (priority = EventPriority.HIGHEST, ignoreCancelled = true)
 	public void onBlockBreak(BlockBreakEvent event) {
 
